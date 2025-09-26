@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simple Wi-Fi Receiver (PHY Layer)
 
 ## Overview
